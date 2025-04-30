@@ -1,0 +1,12 @@
+#Nav{
+    display:flex;
+    justify-content:space-between;
+    background-color: aquamarine;
+    padding:20px;
+}
+#Nav_Right {
+    border:2px solid black;
+    border-radius: 12px;
+    background-color: lightcoral;
+    gap:30px;
+}
